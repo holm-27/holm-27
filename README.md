@@ -5,8 +5,7 @@
 **Computer Science @ Arizona State University**  
 Software Engineering Intern — prev. Capital One · Mage Legal (YC S24) · DocuSign
 
-I build automation and web-scraping tools, ship full-stack side projects,<br/>
-and I'm working my way into open source.
+I build automation and web-scraping tools
 
 <br/>
 
