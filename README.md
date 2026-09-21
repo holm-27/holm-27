@@ -27,15 +27,20 @@ and I'm working my way into open source.
 
 <table>
   <tr>
-    <td width="60" align="center"><img src="assets/logos/capitalone.png" width="36" alt="Capital One" /></td>
+    <td width="110" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holm-27/holm-27/main/assets/logos/capitalone-wordmark-dark.svg" />
+        <img height="30" src="https://raw.githubusercontent.com/holm-27/holm-27/main/assets/logos/capitalone-wordmark.svg" alt="Capital One" />
+      </picture>
+    </td>
     <td><b><a href="https://www.capitalone.com">Capital One</a></b><br/><sub>Software Engineering Intern</sub></td>
   </tr>
   <tr>
-    <td width="60" align="center"><img src="assets/logos/mage.png" width="36" alt="Mage Legal" /></td>
+    <td width="110" align="center"><img height="30" src="assets/logos/mage.png" alt="Mage Legal" /></td>
     <td><b><a href="https://mage.legal">Mage Legal</a></b> <sub>YC&nbsp;S24</sub><br/><sub>Software Engineering Intern</sub></td>
   </tr>
   <tr>
-    <td width="60" align="center"><img src="assets/logos/docusign.png" width="36" alt="DocuSign" /></td>
+    <td width="110" align="center"><img height="30" src="assets/logos/docusign.png" alt="DocuSign" /></td>
     <td><b><a href="https://www.docusign.com">DocuSign</a></b><br/><sub>Software Engineering Intern</sub></td>
   </tr>
 </table>
