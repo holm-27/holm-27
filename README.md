@@ -28,8 +28,8 @@ I build automation and web-scraping tools
   <tr>
     <td width="110" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holm-27/holm-27/main/assets/logos/capitalone-wordmark-dark.svg" />
-        <img height="30" src="https://raw.githubusercontent.com/holm-27/holm-27/main/assets/logos/capitalone-wordmark.svg" alt="Capital One" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/logos/capitalone-wordmark-dark.svg" />
+        <img height="30" src="assets/logos/capitalone-wordmark.svg" alt="Capital One" />
       </picture>
     </td>
     <td><b><a href="https://www.capitalone.com">Capital One</a></b><br/><sub>Software Engineering Intern</sub></td>
