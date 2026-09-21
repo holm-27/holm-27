@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Holm 👋
+# Holm
 
 **Computer Science @ Arizona State University**  
-**Software Engineering Intern** — prev. Capital One · Mage Legal (YC S24) · DocuSign
+Software Engineering Intern — prev. Capital One · Mage Legal (YC S24) · DocuSign
 
 I build automation and web-scraping tools, ship full-stack side projects,<br/>
 and I'm working my way into open source.
@@ -23,34 +23,34 @@ and I'm working my way into open source.
 
 ---
 
-### 💼 Where I've Worked
+### Experience
 
 <table>
   <tr>
-    <td><b>Capital One</b></td>
-    <td>Software Engineering Intern</td>
+    <td width="60" align="center"><img src="assets/logos/capitalone.png" width="36" alt="Capital One" /></td>
+    <td><b><a href="https://www.capitalone.com">Capital One</a></b><br/><sub>Software Engineering Intern</sub></td>
   </tr>
   <tr>
-    <td><b>Mage Legal</b> <sub>YC&nbsp;S24</sub></td>
-    <td>Software Engineering Intern</td>
+    <td width="60" align="center"><img src="assets/logos/mage.png" width="36" alt="Mage Legal" /></td>
+    <td><b><a href="https://mage.legal">Mage Legal</a></b> <sub>YC&nbsp;S24</sub><br/><sub>Software Engineering Intern</sub></td>
   </tr>
   <tr>
-    <td><b>DocuSign</b></td>
-    <td>Software Engineering Intern</td>
+    <td width="60" align="center"><img src="assets/logos/docusign.png" width="36" alt="DocuSign" /></td>
+    <td><b><a href="https://www.docusign.com">DocuSign</a></b><br/><sub>Software Engineering Intern</sub></td>
   </tr>
 </table>
 
 ---
 
-### 🚀 What I'm up to
+### What I'm up to
 
-- 🤖 Writing automation + scraping pipelines that do the boring parts for me
-- 🌱 Learning my way around larger codebases so I can contribute to open source
-- 💬 Happy to talk about Python, TypeScript, or anything scraping-related
+- Writing automation and scraping pipelines that handle the boring parts for me
+- Learning my way around larger codebases so I can contribute to open source
+- Happy to talk about Python, TypeScript, or anything scraping-related
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <table>
   <tr>
